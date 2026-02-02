@@ -738,6 +738,7 @@ body {
   align-items: center;
 }
 
+
 .asfeatured>div>h1 {
   display: flex;
   justify-content: center;
@@ -751,7 +752,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  max-width: 80%;
+  max-width: 75%;
 
 }
 
@@ -773,6 +774,11 @@ footer {
 
 
 }
+
+.logos {
+  max-width: 25%;
+  height: auto;
+} 
 
 .products>a,
 .address>a {
