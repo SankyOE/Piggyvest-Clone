@@ -148,7 +148,7 @@ body {
 .lock-icon {
   font-size: 24px; /* bigger lock */
   color:black;
-  z-index: 2;
+  z-index: 0;
 }
 
 /* spinning 9-sided rounded polygon */
